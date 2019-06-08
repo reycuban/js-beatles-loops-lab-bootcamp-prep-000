@@ -3,4 +3,7 @@
     const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 function theBeatlesPlay(musicians, instruments){
   const empty = [];
+  for(let i = 0; musicians.length; i++){
+    
+  }
 }
